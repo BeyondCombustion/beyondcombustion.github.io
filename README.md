@@ -1,7 +1,7 @@
 # Welcome to BeyondCombustion.net!
 #### BeyondCombustion.net is an open source project under the MIT license for ents to collaborate and share information on dry herb vapes
 
-# Use the links below to help you navigate BeyondCombustion
+## Use the links below to help you navigate
 
 ## How To Contribute
 ### [Learn how to contribute new content or submit change requests to BeyondCombustion](https://beyondcombustion.github.io/How-To-Contribute)

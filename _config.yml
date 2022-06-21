@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-domain: beyondcombustion.net      
+domain: beyondcombustion.net
+title: "BeyondCombustion.net"
+description: "BeyondCombustion.net is an open source project under the MIT license for ents to collaborate and share information on dry herb vapes."
 # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://beyondcombustion.net  # the base hostname and protocol for your site, e.g. http://example.com
 # Your name, as you want it to appear underneath each post and in the footer

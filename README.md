@@ -29,7 +29,7 @@
 ### [List of dry herb vape Discord communities](https://beyondcombustion.github.io/Discord-Communities)
 
 ## Businesses
-### [List of businesses of interest to the dry herb community](https://beyondcombustion.github.io/Businesses)
+### [List of businesses of interest to the dry herb community](https://www.beyondcombustion.net/Business/)
 
 ## Health Related Articles
 ### [Repository of health related articles](https://beyondcombustion.github.io/Health-Related-Articles)

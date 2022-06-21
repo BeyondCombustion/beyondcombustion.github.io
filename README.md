@@ -1,6 +1,6 @@
 # Welcome to BeyondCombustion.net! [![pages-build-deployment](https://github.com/BeyondCombustion/beyondcombustion.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.net) 
 
-# Use the links below to help you navigate:
+## Use the links below to help you navigate:
 
 ## How To Contribute
 ### [Learn how to contribute new content or submit change requests to BeyondCombustion](https://beyondcombustion.github.io/How-To-Contribute)

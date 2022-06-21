@@ -3,11 +3,16 @@
 
 @import "{{ site.theme }}";
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+@viewport {
+    width: device-width;
+    initial-scale: 1;
+}
 
 header {
-  width: auto;
+width: device-width;
+    initial-scale: 1;
 }
 body {
-  width: auto;
+width: device-width;
+    initial-scale: 1;
 }

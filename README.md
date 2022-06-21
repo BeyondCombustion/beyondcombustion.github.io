@@ -1,7 +1,4 @@
-# Welcome to BeyondCombustion.net!
-#### BeyondCombustion.net is an open source project under the MIT license for ents to collaborate and share information on dry herb vapes
-
-[![pages-build-deployment](https://github.com/BeyondCombustion/beyondcombustion.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.net) 
+# Welcome to BeyondCombustion.net! [![pages-build-deployment](https://github.com/BeyondCombustion/beyondcombustion.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://beyondcombustion.net) 
 
 ## Use the links below to help you navigate:
 

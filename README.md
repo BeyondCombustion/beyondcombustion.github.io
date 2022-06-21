@@ -5,8 +5,9 @@
 ## How To Contribute
 ### [Learn how to contribute new content or submit change requests to BeyondCombustion](https://beyondcombustion.github.io/How-To-Contribute)
 
-## 'The Book' and 'The List'
-### [The homepage for 'The Book' and 'The List'](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/)
+## 'The Book' (formerly The Consensus) and 'The List'
+#### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place.
+### [Homepage for 'The Book' and 'The List'](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/)
 #### [Jump directly to 'The Book'](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/#the-book)
 #### [Jump directly to 'The List'](https://beyondcombustion.github.io/The-Book-fka-The-Consensus/#the-list)
 

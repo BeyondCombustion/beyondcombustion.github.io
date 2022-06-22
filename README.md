@@ -1,4 +1,4 @@
-# Use the links below to help you navigate:
+# Use the links below to navigate:
 
 ## How To Contribute
 ### [Click here to learn how to contribute new content, or submit changes to existing content on BeyondCombustion.net](https://beyondcombustion.net/How-To-Contribute)

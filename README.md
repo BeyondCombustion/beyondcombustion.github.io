@@ -1,6 +1,6 @@
 # Use the links below to navigate:
 
-## How To Contribute
+## Contributing new content or requesting modifications on BeyondCombustion.net
 ### [Click here to learn how to contribute new content, or submit changes to existing content on BeyondCombustion.net](https://beyondcombustion.net/How-To-Contribute)
 
 ## 'The Book' (formerly The Consensus) and 'The List'

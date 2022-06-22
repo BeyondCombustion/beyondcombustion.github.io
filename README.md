@@ -4,7 +4,7 @@
 ### [Click here to learn how to contribute new content, or submit changes to existing content on BeyondCombustion.net](https://beyondcombustion.net/How-To-Contribute)
 
 ## 'The Book' (formerly The Consensus) and 'The List'
-#### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place.
+#### An open source guide to help assist those new to the space make an efficient and healthier choice to move beyond combustion, by having all information available in one place.
 ### [Homepage for 'The Book' and 'The List'](https://beyondcombustion.net/The-Book-fka-The-Consensus/)
 #### [Jump directly to 'The Book'](https://beyondcombustion.net/The-Book-fka-The-Consensus/#the-book)
 #### [Jump directly to 'The List'](https://beyondcombustion.net/The-Book-fka-The-Consensus/#the-list)

@@ -35,3 +35,6 @@
 
 ## Isopropyl Alternatives
 ### [Learn about alternatives to isopropyl alcohol for cleaning your gear](https://beyondcombustion.net/Isopropyl-Alternatives)
+
+## ArcticFox and RedPanda **Empty/Needs Updates**
+### [Guides for getting your 510 mod loaded with the ArticFox or RedPanda firmware to use as a dry herb vape](https://beyondcombustion.net/ArcticFox-and-RedPanda)

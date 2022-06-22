@@ -1,7 +1,7 @@
 # Use the links below to help you navigate:
 
 ## How To Contribute
-### [Learn how to contribute new content or submit change requests to BeyondCombustion](https://beyondcombustion.net/How-To-Contribute)
+### [Click here to learn how to contribute new content, or submit changes to existing content on BeyondCombustion.net](https://beyondcombustion.net/How-To-Contribute)
 
 ## 'The Book' (formerly The Consensus) and 'The List'
 #### An open source guide to help assist those new to the space make an efficient and healthier choice by having all information available in one place.

@@ -1,4 +1,3 @@
-# [BeyondCombustion.net](https://beyondcombustion.net)
 ## An open source project under the MIT license for ents to collaborate and share information on dry herb vapes, and to help them move beyond combustion 
 
 ### Contributing new content or requesting modifications
